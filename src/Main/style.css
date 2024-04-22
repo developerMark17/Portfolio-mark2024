@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Vollkorn:ital,wght@1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+
+.first-section{
+    display: flex;
+    justify-content: space-around;
+    height: 90vh;
+    margin-top:62px;
+}
+
+.left-section{
+   width: 30%;
+}
+
+.first-sent{
+    font-family: "Exo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.content-right{
+    margin-top: 100px;
+    
+}
+
+.left-section img{
+    border-radius: 200px;
+    width: 400px;
+}
+
+.effects{
+    display: inline;
+    padding: 10px;
+}
+
+
+.container{
+    padding: 10px;
+    
+}
+.container-img{
+    width: 45%;
+    position: relative;
+    left: 750px;
+    bottom: 300px;
+}
+
+
+header a:hover{
+   font-size: 20px;  
+
+} 
+
+ul li{
+    font-size: 18px;
+}
+ul li a{
+    margin-right:30px ;
+    font-size: 20px;
+}
+
+.progress-bar {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: red;
+    transform-origin: 0%;
+    z-index: 1;
+  }
+  
+
+  
+

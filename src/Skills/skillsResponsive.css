@@ -1,0 +1,15 @@
+
+@media only screen and (max-width: 800px) {
+
+    .skillsRes{
+        margin-left:41px;
+    }
+    .container-img{
+        margin-left: -583px;
+        
+    }
+    .container-img img{
+    
+        margin-left: 15px;
+    }
+}

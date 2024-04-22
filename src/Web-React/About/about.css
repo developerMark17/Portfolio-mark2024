@@ -1,0 +1,22 @@
+.container-about {
+    display: flex;
+    padding:20px
+  }
+  
+  .image-container-about {
+    flex: 0 0 25%; /* Adjust the width of the image container */
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .content-container {
+    flex: 1;
+  }
+  
+  .content {
+    padding: 0 20px; /* Adjust padding as needed */
+  }
+  

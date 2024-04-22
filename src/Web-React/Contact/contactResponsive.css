@@ -1,0 +1,23 @@
+
+@media only screen and (max-width: 800px) {
+
+    .resp{
+        
+        padding:0;
+        margin:0;
+    }
+    
+    .contactResp{
+        margin-left:-94px !important;
+        padding:0 !important;
+    }
+    .resImg{
+        width: 200px !important;
+        height: 140px;
+        margin-left: 78px;
+        margin-top: 50px;
+    }
+    .labelResp{
+        width:141px;
+    }
+}
